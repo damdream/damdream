@@ -1,4 +1,7 @@
-### Hi there 👋
+## 안녕하세요!☺️ 데이터와 기록의 힘을 믿는 주니어 백엔드 개발자 김도담입니다 
+
+
+
 
 <!--
 **damdream/damdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
