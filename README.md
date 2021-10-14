@@ -20,7 +20,7 @@
   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damdream&theme=vue&show_icons=true)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamdream&count_bg=%23F1D7E5&title_bg=%23686363&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
